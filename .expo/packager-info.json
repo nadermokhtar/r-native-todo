@@ -3,7 +3,7 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerNgrokUrl": "https://2h-hwv.anonymous.todo.exp.direct",
+  "packagerNgrokUrl": "https://packager.2h-hwv.anonymous.todo.exp.direct",
+  "ngrokPid": 56622
 }
